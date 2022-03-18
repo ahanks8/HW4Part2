@@ -12,7 +12,7 @@
  <section>
     <p class="explanation">Below, this is a table that displays compound interest on a principal of $1,000 for interest rates of 5%, 6%, and 7%, for years 1 through 10.</p>
     <div class="hw4-part1-divbox">
-      <h2>Compound Interest!</h2><br>
+      <h2>Compound Interest</h2><br>
       <script>
 
       for (var i = 0.05; i <= 0.07; i += 0.01){
