@@ -1,4 +1,4 @@
-#Homework 4 - Looping Statements
+#Part 2
 <head>
   <meta charset="utf-8">
   <title>CNIT 133 - Homework 4 Part 2</title>
